@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<props>
+	<prop>
+		<modelName>prop_table_03_chr</modelName>
+		<action>"SIT"</action>
+		<offsets>
+			<offset>
+				<x>0.0f</x>
+				<y>0.0f</y>
+				<z>-0.5f</z>
+			</offset>
+		</offsets>
+		<control>INPUT_CONTEXT</control>
+		<accessibility>OnFoot</accessibility>
+		<marker>0</marker>
+		<helpText>Appuyez sur ~INPUT_CONTEXT~ pour vous asseoir.</helpText>
+	</prop>
+</props> 
